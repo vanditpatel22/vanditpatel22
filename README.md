@@ -64,9 +64,9 @@
 
 ### 📊 GitHub Stats
 
-![Vandit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vanditpatel22&show_icons=true&theme=radical&cache_seconds=1800)
+[Vandit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vanditpatel22&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanditpatel22&layout=compact&theme=radical&cache_seconds=1800)
+[Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanditpatel22&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
