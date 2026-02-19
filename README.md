@@ -73,7 +73,7 @@
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/vandit-patel-89722418b/
-- 📧 Email: vanditpatel@gmail.com
+- 📧 Email: vanditpatel887@gmail.com
 
 ---
 
